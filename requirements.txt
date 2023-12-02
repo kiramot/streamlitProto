@@ -1,5 +1,5 @@
 streamlit==1.29.0
 gspread==5.12.1
 pandas==1.5.3
-streamlit-gsheets==1.29.0
+st-gsheets-connection==0.0.3
 streamlit-image-comparison==0.0.4
